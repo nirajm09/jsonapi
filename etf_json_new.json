@@ -1,0 +1,151 @@
+{
+    "etfs": [
+        {
+            "ETF Name": "SBI ETF PRIVATE BANK",
+            "NAV": "169.68",
+            "Symbol": "SBIETFPB",
+            "52 Week High": "222.00",
+            "52 Week Low": "163.75"
+        },
+        {
+            "ETF Name": "SBI ETF IT",
+            "NAV": "286.25",
+            "Symbol": "SBIETFIT",
+            "52 Week High": "405.70",
+            "52 Week Low": "280.53"
+        },
+        {
+            "ETF Name": "DSP Liquid ETF",
+            "NAV": "999.99",
+            "Symbol": "LIQUIDETF",
+            "52 Week High": "010.00",
+            "52 Week Low": "805.90"
+        },
+        {
+            "ETF Name": "CPSE ETF",
+            "NAV": "34.18",
+            "Symbol": "CPSEETF",
+            "52 Week High": "38.80",
+            "52 Week Low": "24.30"
+        },
+        {
+            "ETF Name": "NIPPON INDIA ETF Consumption",
+            "NAV": "71.69",
+            "Symbol": "CONSUMBEES",
+            "52 Week High": "81.38",
+            "52 Week Low": "67.20"
+        },
+        {
+            "ETF Name": "NIPPON INDIA ETF Dividend Opportunities",
+            "NAV": "41.68",
+            "Symbol": "DIVOPPBEES",
+            "52 Week High": "50.30",
+            "52 Week Low": "40.10"
+        },
+        {
+            "ETF Name": "Axis Technology ETF",
+            "NAV": "284.60",
+            "Symbol": "AXISTECETF",
+            "52 Week High": "437.10",
+            "52 Week Low": "274.30"
+        },
+        {
+            "ETF Name": "NIPPON INDIA ETF NIFTY SDL - 2026",
+            "NAV": "104.80",
+            "Symbol": "SDL26BEES",
+            "52 Week High": "106.01",
+            "52 Week Low": "103.50"
+        },
+        {
+            "ETF Name": "NIPPON INDIA ETF 5 YEAR GILT",
+            "NAV": "48.56",
+            "Symbol": "GILT5YBEES",
+            "52 Week High": "49.83",
+            "52 Week Low": "46.52"
+        },
+        {
+            "ETF Name": "AXIS AAA BOND PLUS SDL ETF - 2026",
+            "NAV": "10.19",
+            "Symbol": "AXISBPSETF",
+            "52 Week High": "12.00",
+            "52 Week Low": "9.06"
+        },
+        {
+            "ETF Name": "Axis Healthcare ETF",
+            "NAV": "75.98",
+            "Symbol": "AXISHCETF",
+            "52 Week High": "105.00",
+            "52 Week Low": "66.00"
+        },
+        {
+            "ETF Name": "ICICI Prudential Sensex ETF",
+            "NAV": "576.58",
+            "Symbol": "ICICISENSX",
+            "52 Week High": "700.00",
+            "52 Week Low": "543.95"
+        },
+        {
+            "ETF Name": "NIPPON INDIA NIFTY PHARMA ETF",
+            "NAV": "12.37",
+            "Symbol": "PHARMABEES",
+            "52 Week High": "16.33",
+            "52 Week Low": "12.21"
+        },
+        {
+            "ETF Name": "Kotak Mahindra MF-Kotak Banking ETF-Dividend PO",
+            "NAV": "336.52",
+            "Symbol": "KOTAKBKETF",
+            "52 Week High": "429.70",
+            "52 Week Low": "298.90"
+        },
+        {
+            "ETF Name": "Aditya Birla Sun Life SENSEX ETF",
+            "NAV": "50.64",
+            "Symbol": "BSLSENETFG",
+            "52 Week High": "558.70",
+            "52 Week Low": "43.65"
+        },
+        {
+            "ETF Name": "LIC MF G-sec LT ETF",
+            "NAV": "22.14",
+            "Symbol": "LICNETFGSC",
+            "52 Week High": "26.94",
+            "52 Week Low": "19.00"
+        },
+        {
+            "ETF Name": "MAN50ETF Ltd.",
+            "NAV": "163.10",
+            "Symbol": "MAN50ETF",
+            "52 Week High": "210.80",
+            "52 Week Low": "143.70"
+        },
+        {
+            "ETF Name": "Bharat Bond ETF - April 2032 ",
+            "NAV": "974.80",
+            "Symbol": "BBETF0432",
+            "52 Week High": "156.00",
+            "52 Week Low": "974.80"
+        },
+        {
+            "ETF Name": "Axis Banking ETF",
+            "NAV": "335.6801",
+            "Symbol": "AXISBNKETF",
+            "52 Week High": "--",
+            "52 Week Low": "--"
+        },
+        {
+            "ETF Name": "Mirae Asset ESG Sector Leaders ETF",
+            "NAV": "26.343",
+            "Symbol": "MAESGETF",
+            "52 Week High": "--",
+            "52 Week Low": "--"
+        },
+        {
+            "ETF Name": "Mirae Asset Nifty Financial Services ETF",
+            "NAV": "15.419",
+            "Symbol": "MAFSETF",
+            "52 Week High": "--",
+            "52 Week Low": "--"
+        }
+    ]
+}
